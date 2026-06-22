@@ -1,0 +1,1 @@
+/home/toyo/.config/hypr/hyprland.lua
